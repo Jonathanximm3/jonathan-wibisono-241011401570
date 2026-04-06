@@ -1,0 +1,14 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class jonathanp3 {
+   public jonathanp3() {
+   }
+
+   public static void main(String[] var0) {
+      String var1 = "Jonathan";
+      Integer var2 = 20;
+      Boolean var3 = false;
+      System.out.println("Tipe data: " + var1.getClass().getSimpleName());
+      System.out.println("Tipe data Integer / int: " + var2.getClass().getSimpleName());
+      System.out.println("Tipe data bool: " + var3.getClass().getSimpleName());
+   }
+}
